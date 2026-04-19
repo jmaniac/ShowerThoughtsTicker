@@ -18,7 +18,7 @@
 #define TFT_BL 4
 
 const char* ssid = "";
-const char* password = "Jericho71101";
+const char* password = "";
 const uint8_t upButtonPin = 35;
 const uint8_t downButtonPin = 0;
 volatile int32_t counter = 0;
